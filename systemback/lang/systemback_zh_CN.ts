@@ -1677,28 +1677,28 @@ These will be defined as restorable configuration files!</source>
         <location filename="../systemback/systemback.cpp" line="7419"/>
         <location filename="../systemback/systemback.cpp" line="7421"/>
         <source>Boot Live system</source>
-        <translation>启动Live系统</translation>
+        <translation>Boot Live system</translation>
     </message>
     <message>
         <location filename="../systemback/systemback.cpp" line="7417"/>
         <location filename="../systemback/systemback.cpp" line="7419"/>
         <location filename="../systemback/systemback.cpp" line="7421"/>
         <source>Boot system installer</source>
-        <translation>启动系统安装器</translation>
+        <translation>Boot system installer</translation>
     </message>
     <message>
         <location filename="../systemback/systemback.cpp" line="7417"/>
         <location filename="../systemback/systemback.cpp" line="7419"/>
         <location filename="../systemback/systemback.cpp" line="7421"/>
         <source>Boot Live in safe graphics mode</source>
-        <translation>在安全图像模式下启动Live系统</translation>
+        <translation>Boot Live in safe graphics mode</translation>
     </message>
     <message>
         <location filename="../systemback/systemback.cpp" line="7417"/>
         <location filename="../systemback/systemback.cpp" line="7419"/>
         <location filename="../systemback/systemback.cpp" line="7421"/>
         <source>Boot Live in debug mode</source>
-        <translation>在调试模式下启动Live系统</translation>
+        <translation>Boot Live in debug mode</translation>
     </message>
     <message>
         <location filename="../systemback/systemback.cpp" line="7418"/>
