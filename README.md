@@ -22,26 +22,3 @@ git clone https://github.com/BluewhaleRobot/systemback
 cd systemback/systemback
 debuild
 ```
-
-## Changelog
-
-1.8.9
-
-- Fix support for NVMe
-
-1.8.8
-
-- Merge from https://github.com/fconidi/Systemback_source-1.9.4
-- Add support for NVMe
-
-1.8.7
-
-- Fix symbol link missing after install system images
-
-1.8.6
-
-- Add sbignore file, set include user data as default, set autoiso as default
-
-1.8.5
-
-- Add support for Ubuntu 20.04 and large iso
